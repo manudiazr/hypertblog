@@ -38,6 +38,10 @@ body
 {
     font-size: 20px;
 }
+#cielo
+{
+    width: 500px;
+}
 footer
 {
 background-color: deepskyblue;
